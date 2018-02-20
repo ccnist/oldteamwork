@@ -1,0 +1,6 @@
+{
+  "url": "cleartrip.com",
+  "verify_page": "class, cleartripLogo",
+
+  "roundtrip_radio_button": "id, RoundTrip"
+}

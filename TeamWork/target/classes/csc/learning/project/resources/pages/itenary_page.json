@@ -1,0 +1,6 @@
+{
+  "url": ".*/flights/itinerary.*",
+  "verify_page": "id, itineraryBtn",
+
+  "itenary_container": "id, itineraryOpen"
+}
